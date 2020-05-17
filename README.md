@@ -1,10 +1,11 @@
 # Selenium-Testing-Weather-Data
-This is a python script used to fetch weather data for a location using Selenium.
+This is a python script used to fetch weather data from https://www.timeanddate.com/weather/<br>
+for a location using Selenium.<br>
+This testing tool can be helpful to determine if weather data exists on the website for the given location.
 ## Technologies used:
 ### Language: Python
 Modules: os, unittest, selenium
 ## Description
-The weather data is fetched from https://www.timeanddate.com/weather/<br>
 The website is opened on Chrome browser, location is entered in the search box and first search result link is opened.
 These tasks are automatically performed using Selenium and unittest module.
 ## Setup
