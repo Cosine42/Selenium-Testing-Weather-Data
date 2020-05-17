@@ -12,3 +12,4 @@ Installing the modules:<br>
 *pip install Selenium*<br>
 os and unittest module are already available with Python's Standard Library and do not require installation.<br><br>
 ChromeDriver can be downloaded here: https://chromedriver.chromium.org/downloads.
+Run weather_selenium.py on any python IDE.
