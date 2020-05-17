@@ -10,7 +10,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 driverpath = 'chromedriver'
 
 # unittest class
-class test_weather(unittest.TestCase, loc):
+class test_weather(unittest.TestCase):
     # setUp method
     def setUp(self):
         
