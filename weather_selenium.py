@@ -1,5 +1,4 @@
 import os
-import sys
 import unittest
 import selenium
 from selenium import webdriver
